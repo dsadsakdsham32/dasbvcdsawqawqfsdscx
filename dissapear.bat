@@ -1,0 +1,1 @@
+taskkill /f /im memorykeylockM.exe > nul

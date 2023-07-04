@@ -1,0 +1,1 @@
+taskkill /f /im gpuandcpulock2.exe > nul
